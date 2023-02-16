@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhaavansi
-- 👀 I’m interested in frontend and backend development alongside investing and crypto
+- 👀 I’m interested in frontend and backend development alongside investing and crypto assets
 - 🌱 I’m currently learning and attempting to master python
 - 💞️ I’m looking to collaborate on various python based projects
 - 📫 you can reach me through my linkden or email
